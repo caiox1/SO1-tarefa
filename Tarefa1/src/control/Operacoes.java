@@ -33,7 +33,7 @@ public class Operacoes {
          }
         tempoFinal=System.nanoTime();
         tempoTotal=tempoFinal-tempoInicial;
-        System.out.println("Tempo de execução: (vet 100000) " + (tempoTotal / Math.pow(10, 9)) + "s");
+        System.out.println("Tempo de execução: (vet 100000) " + (tempoTotal / Math.pow(10, 9)) + "s\n\n");
      }
 
     public void ex2(){
