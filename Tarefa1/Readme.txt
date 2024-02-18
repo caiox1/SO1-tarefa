@@ -1,1 +1,2 @@
-First homework in Operacional System FATCZL
+First homework in Operacional System FATECZL
+Professor: Leandro Colevati
